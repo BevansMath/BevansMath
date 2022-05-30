@@ -1,4 +1,4 @@
-### Brandon-Evans
+### Brandon Evans
 Greetings! I am a former student of mathematics and former project manager interested in software development. 
 #In my next position, I would like to apply principles of mathematics to several areas of computer science, including but not limited to: Algorithmic design, image processing & analysis, machine learning and deep learning. 
 #I am currently working on extending the range of applications to my most recent repositories
