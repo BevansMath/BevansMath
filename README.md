@@ -14,4 +14,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&duration=4979&color=F7135B&center=true&vCenter=true&lines=Hello%2C+friend.+Welcome+to+my+Github.)](https://git.io/typing-svg)
 
+---
+
+### :man_technologist: About Me :
+
   
