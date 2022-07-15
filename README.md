@@ -21,7 +21,7 @@
 - :key: I am working towards attaining backend development roles through boot.dev. 
 - :lock: Currently working on: Social Media Backend in Go
 - :seedling: Exploring technical writing on Medium
-- :mega: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-evans-563116164/)
+- :mega: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Brandon-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-evans-563116164/)
 
 
   
