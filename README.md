@@ -17,7 +17,7 @@
 
 ### :man_technologist: About Me :
 
-- :key: I am working towards attaining backend development roles through boot.dev. 
+- :key: I am working towards attaining backend development roles through [https://boot.dev/u/BevansMath](boot.dev.) 
 - :lock: Currently working on: Social Media Backend in Go
 - :seedling: Exploring technical writing on Medium
 - :bicyclist: In my free time, you'll find me reading text books, or working on my physical health.
@@ -35,8 +35,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40 height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" Alt="Raspberry Pi" width="40" height="40"
 </div>
- 
- 
-
-
-  
