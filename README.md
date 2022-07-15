@@ -3,4 +3,4 @@
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=F7643B&center=true&vCenter=true&lines=Hey+there%2C+stranger.+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&duration=4979&color=F7135B&center=true&vCenter=true&lines=Hello%2C+friend.+Welcome+to+my+Github.)](https://git.io/typing-svg)
