@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/the-it-crowd-chris-odowd-1C8bHHJturSx2" width="100"/>
+  <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="100"/>
 </div>
 
 
