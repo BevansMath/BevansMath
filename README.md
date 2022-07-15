@@ -7,7 +7,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
 <div id="profile-counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=BevansMath&style=flat-square&color=blue" alt=""/>
 </div>
@@ -21,7 +20,20 @@
 - :key: I am working towards attaining backend development roles through boot.dev. 
 - :lock: Currently working on: Social Media Backend in Go
 - :seedling: Exploring technical writing on Medium
+- :bicyclist: In my free time, you'll find me reading text books, or working on my physical health.
 - :mega: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Brandon-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-evans-563116164/)
+
+---
+
+### Tools and Technologies
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"         title="Python" alt="Python width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"
+  title="Go" alt="Go" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+</div>
+ 
+ 
 
 
   
