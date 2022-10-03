@@ -18,9 +18,8 @@
 ### :man_technologist: About Me :
 
 - :key: I am working towards attaining backend development roles through [boot.dev](https://boot.dev/u/BevansMath) 
-- :lock: Currently working on: Social Media Backend in Go
-- :seedling: Exploring technical writing on Medium
-- :bicyclist: In my free time, you'll find me reading text books, or working on my physical health.
+- :lock: Currently working on: Social Media Backend in Go, Autonomous Car Simulation in JavaScript
+- :bicyclist: In my free time, you'll find me reading text books, working out, or sharpening my programming skills.
 - :mega: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Brandon-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-evans-563116164/)
 
 ---
