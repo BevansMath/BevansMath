@@ -17,9 +17,9 @@
 
 ### :man_technologist: About Me :
 
-- :key: I am working towards attaining backend development roles through [boot.dev](https://boot.dev/u/BevansMath) 
+- :key: I am working towards attaining roles in Data Analysis or Back-end Development
 - :lock: Currently working on: Social Media Backend in Go, Autonomous Car Simulation in JavaScript
-- :bicyclist: In my free time, you'll find me reading text books, working out, or sharpening my programming skills.
+- :bicyclist: In my free time, you'll find me reading text books, biking, or sharpening my programming skills
 - :mega: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Brandon-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-evans-563116164/)
 
 ---
@@ -31,6 +31,5 @@
   title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40 height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" Alt="Raspberry Pi" width="40" height="40"
 </div>
